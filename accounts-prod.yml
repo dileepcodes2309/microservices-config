@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Microservices World "
+  contactDetails:
+    name: "Pushpa - Production Lead"
+    email: "pushpa.behera@outlook.com"
+  onCallSupport:
+    - (555) 555-1236
+    - (555) 523-1347
