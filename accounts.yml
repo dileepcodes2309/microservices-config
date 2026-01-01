@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Microservices World "
+  message: "Welcome to Microservices World (D)"
   contactDetails:
     name: "Dileep Kumar - Developer"
     email: "dileep.behera@outlook.com"
